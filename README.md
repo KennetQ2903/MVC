@@ -1,5 +1,7 @@
 # Diagrama de clases
 
+![Diagrama de clases MVC](public/MVC.png)
+
 # Diagrama de secuencia
 
 ```mermaid
