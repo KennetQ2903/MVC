@@ -1,3 +1,5 @@
+# Plantilla
+![Plantilla MVC](public/mvcTemplate.png)
 # Diagrama de clases
 
 ![Diagrama de clases MVC](public/MVC.png)
